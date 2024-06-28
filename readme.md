@@ -1,5 +1,10 @@
 # koishi-plugin-mail-outlook
 
-[![npm](https://img.shields.io/npm/v/koishi-plugin-mail-outlook?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-mail-outlook)
+Mail-Outlook 是一个适用于 Koishi 的插件，提供全面的电子邮件管理和互动解决方案。该插件包括四个主要功能，旨在简化您的电子邮件管理：
 
-A simple mail helper for koishi
+**添加邮箱**：轻松将新邮箱集成到您的 Koishi 环境中。该插件支持 Gmail、QQ 邮箱、163 邮箱等主流邮箱提供商。
+**删除邮箱**：通过简单的命令从 Koishi 中删除邮箱，确保您的电子邮件管理高效且无杂乱。
+**获取邮箱内容**：直接通过 Koishi 访问并阅读您的电子邮件内容，无需切换应用程序即可随时掌握您的收件箱动态。
+**订阅邮箱更新**：实时接收您的邮箱账户的新邮件通知和更新，让您在邮件到达时及时获悉。
+
+Mail-Outlook 插件目前支持包括 Gmail、QQ 邮箱、163 邮箱在内的主流邮箱提供商，确保兼容性和易用性。
