@@ -1,6 +1,6 @@
 {
   "name": "koishi-plugin-mail-outlook",
-  "description": "A simple mail helper for koishi",
+  "description": "A simple mail plugin for managing and interacting with various email accounts directly from your Koishi environment",
   "version": "1.0.0",
   "contributors": [
     "ZhangWei <ewea20221310@gmail.com>"
@@ -12,11 +12,17 @@
     "dist"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/En-2863/Koishi-mail-outlook.git",
+  "repository": {                           
+    "type": "git",
+    "url": "git+https://github.com/En-2863/Koishi-mail-outlook.git"
+  },
   "scripts": {},
   "keywords": [
     "chatbot",
     "koishi",
-    "plugin"
+    "plugin",
+    "mail"
   ],
   "peerDependencies": {
     "koishi": "^4.17.9",
